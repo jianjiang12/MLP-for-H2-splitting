@@ -18,7 +18,6 @@ See the file `LICENSE` for details.
 
 * `MLP`:
 
-Description: Machine Learning Potential (MLP) model used in Molecular 
-Dynamics (MD) simulations to generate the results presented in the paper.
-Details: The MD simulation code is based on Newton’s equations of motion.
+- **Description**: Machine Learning Potential (MLP) model used in Molecular Dynamics (MD) simulations to generate the results presented in the paper.
+- **Details**: The MD simulation code is based on Newton’s equations of motion.
 
